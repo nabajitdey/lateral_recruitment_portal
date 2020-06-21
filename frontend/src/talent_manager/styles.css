@@ -1,0 +1,55 @@
+.ag-row-hover {
+    /* putting in !important so it overrides the theme's styling as it hovers the row also */
+    background-color: #cf5afd !important;
+}
+
+.ag-row-selected {
+    /* putting in !important so it overrides the theme's styling as it hovers the row also */
+    background-color: #9B08EE !important;
+}
+
+.special_modal .modal-content{
+    background-color: #000;
+    color: #fff;
+ }
+
+.rag-red {
+    background-color: lightcoral;
+  }
+
+/* .ag-column-hover {
+    background-color: #dfffdf;
+  } */
+
+
+/* .ag-theme-material .ag-icon-checkbox-checked {
+    color: #9B08EE; 
+    background-color: #9B08EE;
+  }  
+
+.ag-theme-material .ag-icon-checkbox :empty {
+      color: #9B08EE;
+      background-color: #9B08EE;
+    
+    }   */
+
+.ag-theme-alpine-dark .ag-checkbox-input-wrapper {
+    background: none
+}
+
+.ag-theme-alpine-dark .ag-checkbox-input-wrapper::after {
+    /* font-family: 'Font Awesome 5 Free';
+    font-weight: bold;
+    content: '\f00d'; */
+    color: #9B08EE;
+}
+
+.ag-theme-alpine-dark .ag-checkbox-input-wrapper.ag-checked::after {
+    /* content: '\f00c'; */
+    color: #E7A9FF;
+}
+
+.ag-theme-alpine-dark .ag-checkbox-input-wrapper.ag-indeterminate::after {
+    /* content: '\f068'; */
+    color: gray;
+}

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\backend\\manage.py",
+  "PreviewInSolutionExplorer": false,
+  "python.pythonPath": "C:/Users/nabaj/Envs/projenv/lib/site-packages/python",
+  "python.linting.pylintPath": "C:/Users/nabaj/Envs/projenv/lib/site-packages/pylint"
+}

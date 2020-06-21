@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\nabaj\\envs\\projenv\\Scripts\\python.exe",
+    "python.linting.pylintPath":"C:\\Users\\nabaj\\envs\\projenv\\Scripts\\pylint.exe",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+    ]
+}
