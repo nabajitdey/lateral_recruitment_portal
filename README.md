@@ -250,10 +250,3 @@ Add LICENSE file with chosen license. If you want, I can add an MIT license by d
 Repository owner: @nabajitdey
 For issues or feature requests, open a GitHub issue in the repo.
 
----
-
-I can:
-- Fill this README with concrete commands and example environment files if you tell me the backend framework (Django / Flask / FastAPI / other) and which database you want (Postgres / MySQL / SQLite).
-- Add a LICENSE file (MIT/Apache/GPL) and push it.
-
-Which backend framework and database should I use for the concrete setup instructions, and which license do you prefer?
